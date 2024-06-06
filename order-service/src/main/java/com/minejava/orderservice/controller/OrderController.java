@@ -50,6 +50,7 @@ public class OrderController {
     }
 
     private Boolean handleErrorCase() {
+        log.info("Logging from handleErrror Method");
         return false;
     }
 
