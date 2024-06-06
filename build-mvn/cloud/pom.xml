@@ -15,7 +15,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>cloud-infra</name>
 
-    <description>A cloud build POM</description>
+    <description>Cloud build POM</description>
 
     <properties>
         <java.version>22</java.version>
